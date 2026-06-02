@@ -16,7 +16,7 @@ public class Multiarray
             {
                 System.out.print(arr[i][j] + "  ");
             }
-            System.err.println();
+            System.out.println();
         }
       for (int n[] : arr)
       {
