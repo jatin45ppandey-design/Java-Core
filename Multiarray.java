@@ -24,7 +24,7 @@ public class Multiarray
         {
             System.err.print(m + " ");
         }
-        System.err.println();
+        System.out.println();
       }
 
     }
